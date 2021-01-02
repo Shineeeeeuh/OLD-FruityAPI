@@ -1,0 +1,4 @@
+name: FruityAPI
+version: 1.0
+author: ShineLoliMC
+main: net.fruity.api.spigot.FruityAPIPluginSpigot
